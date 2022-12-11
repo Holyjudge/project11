@@ -2,3 +2,4 @@ Scans the face of a user and if they are not present, can send an email to the u
 Can set automatic time for execution.
 Saves time of taking attendance and can be easily done with powerful hardware.
 test1.py is run by the admin to send email to absentees.
+'Face_Detection_PyQt_base' is the original file , _faceproj is referance...
